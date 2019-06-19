@@ -1,0 +1,34 @@
+.f2{
+    font-family:'comic sans ms','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+    font-size: small;
+    color:black;
+    
+}
+.bio{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: large;
+    color:white;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-indent: 5%;
+}
+.Link{
+    font-family:'comic sans ms''Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: large;
+    color:white;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-indent: 5%;
+}
+.main{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: large;
+    color:white;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-indent: 5%;
+}
